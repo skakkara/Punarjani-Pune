@@ -1,4 +1,4 @@
-## Welcome to Punarjani Krala Ayurvedic & Panchakarama Clinic Pages
+## Welcome to \n Punarjani Kerala Ayurvedic & Panchakarama Clinic Pages
 
 You can use the [editor on GitHub](https://github.com/skakkara-in-ibm-com/Punurjani-Pune/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
