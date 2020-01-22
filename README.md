@@ -2,7 +2,7 @@
   
 # Punarjani
 
-# Kerala Ayurvedic & Panchakarama Clinic Pages
+# Kerala Ayurvedic & Panchakarama Clinic
 </b>
 </p>
 
