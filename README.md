@@ -1,8 +1,10 @@
-## Welcome to
-
-## Punarjani
+# <p align="center"> <b> <b> Welcome to </b> 
+  
+# Punarjani
 
 # Kerala Ayurvedic & Panchakarama Clinic Pages
+</b>
+</p>
 
 You can use the [editor on GitHub](https://github.com/skakkara-in-ibm-com/Punurjani-Pune/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
